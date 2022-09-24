@@ -1,6 +1,6 @@
 # 浅笑嫣然
 
-我的个人博客：<https://tig000.github.io>，欢迎 Star 和 Fork。
+我的个人博客：<https://TiG000.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -36,15 +36,6 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
    **评论模块：** 目前支持 disqus、gitment、gitalk、utterances 和 beaudar，选用其中一种就可以了，推荐使用 beaudar。它们各自的官方配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了，请参考官方指南配置。
 
    **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
-
-4. 删除我的文章与图片。
-
-   如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
-
-   * \_posts 文件夹中是我已发布的博客文章。
-   * \_drafts 文件夹中是我尚未发布的博客文章。
-   * \_wiki 文件夹中是我已发布的 wiki 页面。
-   * images 文件夹中是我的文章和页面里使用的图片。
 
 5. 修改「关于」页面。
 
