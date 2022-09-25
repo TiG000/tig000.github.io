@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.email "sxyx2008@163.com"
           git config --local user.name "冯靖"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          #git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add .
           git commit -m "update by github action"
           git push
