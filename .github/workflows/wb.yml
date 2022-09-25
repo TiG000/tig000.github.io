@@ -26,9 +26,11 @@ jobs:
         run: python3 wb/main.py
       - name: Commit files
         run: |
-          git config --local user.email "sxyx2008@163.com"
-          git config --local user.name "冯靖"
-          # git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git config --local user.email "chsking@yandex.com"
+          git config --local user.name "chsking"
           git add .
           git commit -m "update by github action"
-          git push
+      - name: 推送更改
+        uses:  ad-m/github-push-action@master
+        with:
+         force_with_lease: true
