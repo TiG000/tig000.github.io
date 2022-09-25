@@ -39,10 +39,12 @@ jobs:
       - name: 'Push changes'
         if: steps.detect_changes.outputs.changes_detected == 'yes'
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.email "chsking@yandex.com"
+          git config --global user.name "chsking"
           git add .
           git commit -m "* update `date '+%Y-%m-%d %H:%M:%S'`"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 推送更改
+        uses:  ad-m/github-push-action@master
+        with:
+          force_with_lease: true
