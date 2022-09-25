@@ -1,8 +1,9 @@
 name: 'Crawler'
 
 on:
+  workflow_dispatch: # 手动触发
   schedule:
-    - cron: '0 2 * * *'  
+    - cron: "0 * * * *"
   push:
     branches: [ master ]
 
