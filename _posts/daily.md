@@ -1,3 +1,11 @@
+---
+layout: post
+title: wb热搜
+categories: daily
+description: 统计微博热搜
+keywords: wb, 热搜
+---
+
 ## 2022-09-25热门搜索 
 最后更新时间 2022-09-25 16:29:45.893086 
 1. [羊了个羊创始人被母校制展牌宣传](https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E6%AF%8D%E6%A0%A1%E5%88%B6%E5%B1%95%E7%89%8C%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=1&Refer=top) 2482676
