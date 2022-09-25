@@ -121,8 +121,8 @@ def update_readme(news):
     lines = '\n'.join(lines)
     # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![{archive_filepath}]({archive_filepath}.png) \r\n' + lines + '\r\n<!-- END -->'
     lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
-    content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load('./README.md'))
-    save('./README.md', content)
+    content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load('README.md'))
+    save('README.md', content)
 
 
 def save_archive(news):
