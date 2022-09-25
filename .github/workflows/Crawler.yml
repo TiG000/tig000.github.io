@@ -18,10 +18,10 @@ jobs:
       - name: 'Set time zone'
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
 
-      - name: 'Set up Python3.8'
-        uses: actions/setup-python@v1
+      - name: 'Set up Python3.10'
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.8
+          python-version: "3.10"
 
       - name: 'Install requirements'
         run: pip install -r ./requirements.txt
