@@ -42,8 +42,7 @@ jobs:
           git config --global user.email "chsking@yandex.com"
           git config --global user.name "chsking"
           git add .
-          git commit -m "* update `date '+%Y-%m-%d %H:%M:%S'`"
-          git push
+          git commit -m "* update `date '+%Y-%m-%d %H:%M:%S'`"          
       - name: 推送更改
         uses:  ad-m/github-push-action@master
         with:
