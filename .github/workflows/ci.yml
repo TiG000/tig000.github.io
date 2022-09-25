@@ -25,9 +25,6 @@ jobs:
           bundle exec jekyll build
         
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.6.2
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: built
-          FOLDER: _site
-          CLEAN: true
+          folder: build
