@@ -265,6 +265,14 @@
     } ,
   
     {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2022/10/14/wb-daily/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
       "title"    : "JSON",
       "category" : "",
       
