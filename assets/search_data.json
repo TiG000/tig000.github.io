@@ -289,11 +289,11 @@
     } ,
   
     {
-      "title"    : "template page",
-      "category" : "cate1",
+      "title"    : "latest paper",
+      "category" : "survey",
       
       "url"      : "https://TiG000.github.io/2022/10/15/arxiv/",
-      "keywords" : "keyword1, keyword2"
+      "keywords" : "survey, review"
     } ,
   
     {
