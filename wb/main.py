@@ -121,8 +121,8 @@ def update_readme(news):
     lines = '\n'.join(lines)
     tm = datetime.now().strftime("%Y-%m-%d")
     yd = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d') 
-    pth = os.path.join('./_post',f'{yd}-wb.md')
-    new_pth = os.path.join('./_post',f'{tm}-wb.md')
+    pth = os.path.join('./_posts',f'{yd}-wb.md')
+    new_pth = os.path.join('./_posts',f'{tm}-wb.md')
     if os.path.exists(new_pth):
         pth = new_pth
         print(pth)
