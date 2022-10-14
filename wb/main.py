@@ -125,7 +125,7 @@ def update_readme(news):
     new_pth = os.path.join('./_post',f'{tm}-wb.md')
     if os.path.exists(new_pth):
         pth = new_pth
-        print('继续更新')
+        print(pth)
     # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![{archive_filepath}]({archive_filepath}.png) \r\n' + lines + '\r\n<!-- END -->'
     lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
     content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load(pth))
