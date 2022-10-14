@@ -120,9 +120,12 @@ def update_readme(news):
     lines = [line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items()]
     lines = '\n'.join(lines)
     tm = datetime.now().strftime("%Y-%m-%d")
-    yd = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d') 
+    yd = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d') 
     pth = os.path.join('./_post',f'{yd}-wb.md')
-    new_pth = os.path.join('./_post',f'{yd}-wb.md')
+    new_pth = os.path.join('./_post',f'{tm}-wb.md')
+    if os.path.exists(new_path):
+        path = new_pth
+        print('继续更新')
     # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![{archive_filepath}]({archive_filepath}.png) \r\n' + lines + '\r\n<!-- END -->'
     lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
     content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load(path))
