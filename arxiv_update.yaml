@@ -1,0 +1,48 @@
+name: 'Crawler'
+
+on:
+  workflow_dispatch: # 手动触发
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches: [ master ]
+
+jobs:
+  arxiv-crawler:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v2.3.4
+
+      - name: 'Set time zone'
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+
+      - name: 'Set up Python3.10'
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: 'Install requirements'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./requirements.txt
+      - name: 'Crawl'
+        run: python arXiv/process.py
+
+      - name: 'Detect changes'
+        id: detect_changes
+        run: if [ -n "$(git status --porcelain)" ]; then echo "::set-output name=changes_detected::yes"; fi
+
+      - name: 'Push changes'
+        if: steps.detect_changes.outputs.changes_detected == 'yes'
+        run: |
+          git config --global user.email "chsking@yandex.com"
+          git config --global user.name "chsking"
+          git add .
+          git commit -m "* update `date '+%Y-%m-%d %H:%M:%S'`"          
+      - name: 推送更改
+        uses:  ad-m/github-push-action@master
+        with:
+          force_with_lease: true
