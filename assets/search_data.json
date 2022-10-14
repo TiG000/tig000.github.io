@@ -242,6 +242,14 @@
   
   
     {
+      "title"    : "2022-10-15热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2022-10-15/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
       "title"    : "weibo-trending-hot-search",
       "url"      : "https://TiG000.github.io/wb/",
       "keywords" : ""
@@ -277,6 +285,22 @@
       "category" : "daily",
       
       "url"      : "https://TiG000.github.io/2022/10/14/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "template page",
+      "category" : "cate1",
+      
+      "url"      : "https://TiG000.github.io/2022/10/15/arxiv/",
+      "keywords" : "keyword1, keyword2"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2022/10/15/wb/",
       "keywords" : "wb, 热搜"
     } ,
   
