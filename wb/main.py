@@ -119,10 +119,14 @@ def update_readme(news):
     line = '1. [{title}]({url}) {hot}'
     lines = [line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items()]
     lines = '\n'.join(lines)
+    tm = datetime.now().strftime("%Y-%m-%d")
+    yd = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d') 
+    pth = os.path.join('./_post',f'{yd}-wb.md')
+    new_pth = os.path.join('./_post',f'{yd}-wb.md')
     # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![{archive_filepath}]({archive_filepath}.png) \r\n' + lines + '\r\n<!-- END -->'
     lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
-    content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load('./wb/README.md'))
-    save('./wb/README.md', content)
+    content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load(path))
+    save(new_path, content)
 
 
 def save_archive(news):
