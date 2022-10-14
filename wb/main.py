@@ -123,13 +123,13 @@ def update_readme(news):
     yd = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d') 
     pth = os.path.join('./_post',f'{yd}-wb.md')
     new_pth = os.path.join('./_post',f'{tm}-wb.md')
-    if os.path.exists(new_path):
+    if os.path.exists(new_pth):
         path = new_pth
         print('继续更新')
     # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![{archive_filepath}]({archive_filepath}.png) \r\n' + lines + '\r\n<!-- END -->'
     lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
     content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load(path))
-    save(new_path, content)
+    save(new_pth, content)
 
 
 def save_archive(news):
