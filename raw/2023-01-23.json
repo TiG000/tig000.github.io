@@ -198,5 +198,25 @@
   "狗子讨要压岁钱只要红色票子": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E8%AE%A8%E8%A6%81%E5%8E%8B%E5%B2%81%E9%92%B1%E5%8F%AA%E8%A6%81%E7%BA%A2%E8%89%B2%E7%A5%A8%E5%AD%90%23&t=31&band_rank=50&Refer=top",
     "hot": 47251
+  },
+  "新年快乐": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=19&Refer=top",
+    "hot": 19501
+  },
+  "英超春节大戏": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E6%98%A5%E8%8A%82%E5%A4%A7%E6%88%8F%23&t=31&band_rank=29&Refer=top",
+    "hot": 17921
+  },
+  "周也主持": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E4%B8%BB%E6%8C%81%23&t=31&band_rank=43&Refer=top",
+    "hot": 16576
+  },
+  "杨迪演见钱眼开好像我本人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%BC%94%E8%A7%81%E9%92%B1%E7%9C%BC%E5%BC%80%E5%A5%BD%E5%83%8F%E6%88%91%E6%9C%AC%E4%BA%BA%23&t=31&band_rank=44&Refer=top",
+    "hot": 16559
+  },
+  "中国乒乓": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93&t=31&band_rank=48&Refer=top",
+    "hot": 16513
   }
 }
