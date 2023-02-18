@@ -195,8 +195,20 @@
     "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%A5%8E%E6%A1%91%E6%8F%90%23&t=31&band_rank=49&Refer=top",
     "hot": 40404
   },
+  "现在的大学生开学": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%23&t=31&band_rank=18&Refer=top",
+    "hot": 37432
+  },
   "KPL": {
     "url": "https://s.weibo.com/weibo?q=KPL&t=31&band_rank=50&Refer=top",
     "hot": 35276
+  },
+  "满江红演员呼吁大家关注消防": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B1%9F%E7%BA%A2%E6%BC%94%E5%91%98%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E5%85%B3%E6%B3%A8%E6%B6%88%E9%98%B2%23&t=31&band_rank=24&Refer=top",
+    "hot": 32334
+  },
+  "李一桐的理想型": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E7%9A%84%E7%90%86%E6%83%B3%E5%9E%8B%23&t=31&band_rank=43&Refer=top",
+    "hot": 20293
   }
 }
