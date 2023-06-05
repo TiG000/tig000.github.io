@@ -71,6 +71,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9B%E5%85%AC%20%E9%9D%92%E9%B8%9F&t=31&band_rank=18&Refer=top",
     "hot": 135921
   },
+  "Apple Vision Pro 苹果首款头显": {
+    "url": "https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=4&Refer=top",
+    "hot": 127549
+  },
   "WWDC": {
     "url": "https://s.weibo.com/weibo?q=WWDC&t=31&band_rank=19&Refer=top",
     "hot": 120348
@@ -195,8 +199,40 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BA%A2%E5%A5%8B&t=31&band_rank=49&Refer=top",
     "hot": 43224
   },
+  "AppleVisionPro售价": {
+    "url": "https://s.weibo.com/weibo?q=AppleVisionPro%E5%94%AE%E4%BB%B7&t=31&band_rank=16&Refer=top",
+    "hot": 42895
+  },
   "SMTOWN曾用EXO威胁边伯贤": {
     "url": "https://s.weibo.com/weibo?q=%23SMTOWN%E6%9B%BE%E7%94%A8EXO%E5%A8%81%E8%83%81%E8%BE%B9%E4%BC%AF%E8%B4%A4%23&t=31&band_rank=50&Refer=top",
     "hot": 41420
+  },
+  "陈紫函公诉泳装出场": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E5%85%AC%E8%AF%89%E6%B3%B3%E8%A3%85%E5%87%BA%E5%9C%BA%23&t=31&band_rank=25&Refer=top",
+    "hot": 28978
+  },
+  "Vision Pro 眼睛手势操作": {
+    "url": "https://s.weibo.com/weibo?q=Vision%20Pro%20%E7%9C%BC%E7%9D%9B%E6%89%8B%E5%8A%BF%E6%93%8D%E4%BD%9C&t=31&band_rank=27&Refer=top",
+    "hot": 23715
+  },
+  "肖春生的词典里生词挺多": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E7%9A%84%E8%AF%8D%E5%85%B8%E9%87%8C%E7%94%9F%E8%AF%8D%E6%8C%BA%E5%A4%9A%23&t=31&band_rank=40&Refer=top",
+    "hot": 19726
+  },
+  "13英寸MacBook降价": {
+    "url": "https://s.weibo.com/weibo?q=%2313%E8%8B%B1%E5%AF%B8MacBook%E9%99%8D%E4%BB%B7%23&t=31&band_rank=42&Refer=top",
+    "hot": 19234
+  },
+  "Vision Pro 迪士尼": {
+    "url": "https://s.weibo.com/weibo?q=Vision%20Pro%20%E8%BF%AA%E5%A3%AB%E5%B0%BC&t=31&band_rank=43&Refer=top",
+    "hot": 18727
+  },
+  "watchOS 10 史努比表盘": {
+    "url": "https://s.weibo.com/weibo?q=watchOS%2010%20%E5%8F%B2%E5%8A%AA%E6%AF%94%E8%A1%A8%E7%9B%98&t=31&band_rank=44&Refer=top",
+    "hot": 18440
+  },
+  "起底叶音工作室": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E5%8F%B6%E9%9F%B3%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&t=31&band_rank=50&Refer=top",
+    "hot": 16493
   }
 }
