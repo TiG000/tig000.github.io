@@ -115,6 +115,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%AE%AB%E8%BF%9C%E5%BE%B5%E5%B9%B4%E4%B8%8B%E5%B0%8F%E7%8B%97&t=31&band_rank=29&Refer=top",
     "hot": 63376
   },
+  "台风": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=2&Refer=top",
+    "hot": 60715
+  },
   "令人心动的offer5": {
     "url": "https://s.weibo.com/weibo?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer5&t=31&band_rank=30&Refer=top",
     "hot": 60192
@@ -198,5 +202,25 @@
   "你以为的瑞幸vs实际的瑞幸": {
     "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E7%91%9E%E5%B9%B8vs%E5%AE%9E%E9%99%85%E7%9A%84%E7%91%9E%E5%B9%B8&t=31&band_rank=50&Refer=top",
     "hot": 38866
+  },
+  "这些食物容易存在黄曲霉素": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%E5%AE%B9%E6%98%93%E5%AD%98%E5%9C%A8%E9%BB%84%E6%9B%B2%E9%9C%89%E7%B4%A0&t=31&band_rank=31&Refer=top",
+    "hot": 24134
+  },
+  "盛阳在这儿等你呢": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%9B%E9%98%B3%E5%9C%A8%E8%BF%99%E5%84%BF%E7%AD%89%E4%BD%A0%E5%91%A2%23&t=31&band_rank=36&Refer=top",
+    "hot": 21056
+  },
+  "马丽说和沈腾最不熟": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E8%AF%B4%E5%92%8C%E6%B2%88%E8%85%BE%E6%9C%80%E4%B8%8D%E7%86%9F%23&t=31&band_rank=43&Refer=top",
+    "hot": 18391
+  },
+  "选狗窍门": {
+    "url": "https://s.weibo.com/weibo?q=%E9%80%89%E7%8B%97%E7%AA%8D%E9%97%A8&t=31&band_rank=45&Refer=top",
+    "hot": 18379
+  },
+  "人在尴尬的时候就会假装很忙": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%9C%A8%E5%B0%B4%E5%B0%AC%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E4%BC%9A%E5%81%87%E8%A3%85%E5%BE%88%E5%BF%99&t=31&band_rank=50&Refer=top",
+    "hot": 18352
   }
 }
