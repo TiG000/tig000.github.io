@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%AB%98%E8%B7%9F%E9%9E%8B%E4%B8%8D%E5%90%88%E8%84%9A%23&t=31&band_rank=20&Refer=top",
     "hot": 114344
   },
+  "盛世中华 大美中国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%20%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
+    "hot": 113066
+  },
   "男子尿急误把高架当隔离带一跃而下": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%BF%E6%80%A5%E8%AF%AF%E6%8A%8A%E9%AB%98%E6%9E%B6%E5%BD%93%E9%9A%94%E7%A6%BB%E5%B8%A6%E4%B8%80%E8%B7%83%E8%80%8C%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
     "hot": 112911
@@ -139,6 +143,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%AF%8D%E4%BA%B2%E6%8B%A8%E9%80%9A%E5%84%BF%E5%AD%90%E7%94%9F%E5%89%8D%E5%8F%B7%E7%A0%81%E6%B0%91%E8%AD%A6%E6%9A%96%E5%BF%83%E9%99%AA%E8%81%8A%23&t=31&band_rank=35&Refer=top",
     "hot": 60019
   },
+  "央视新闻里的吉克隽逸": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E9%87%8C%E7%9A%84%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%23&t=31&band_rank=49&Refer=top",
+    "hot": 56986
+  },
   "全红婵i人实锤": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5i%E4%BA%BA%E5%AE%9E%E9%94%A4%23&t=31&band_rank=36&Refer=top",
     "hot": 55147
@@ -191,12 +199,12 @@
     "url": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%8F%8C%E9%A2%81%E5%A5%96%20%E5%97%91cp%E4%BB%AA%E5%BC%8F&t=31&band_rank=48&Refer=top",
     "hot": 49571
   },
-  "央视新闻里的吉克隽逸": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E9%87%8C%E7%9A%84%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%23&t=31&band_rank=49&Refer=top",
-    "hot": 49558
-  },
   "薛之谦滁州演唱会": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%81%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=50&Refer=top",
     "hot": 49548
+  },
+  "郑钧五点赶高铁开演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A7%E4%BA%94%E7%82%B9%E8%B5%B6%E9%AB%98%E9%93%81%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=43&Refer=top",
+    "hot": 18122
   }
 }
