@@ -19,10 +19,9 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'faraday-multipart', '~> 1.0'
 end
 group :other_plugins do
     gem 'feedjira'
-    gem 'httparty'
-    gem 'faraday-multipart'
-    gem 'faraday-retry'
+    gem 'httparty'    
 end
