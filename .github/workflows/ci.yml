@@ -13,10 +13,13 @@ jobs:
         with: 
           persist-credentials: false
 
-      - name: Set Ruby 3.1
-        uses: actions/setup-ruby@v1
+      - name: Set Ruby 3.3
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1         
+          ruby-version: '3.3'
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - run: bundle exec rake
 
       - name: Install and Build
         run: |
