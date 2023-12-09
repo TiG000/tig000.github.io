@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem install bundler
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
