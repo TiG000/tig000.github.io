@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
-group :jekyll_plugins do
-    gem 'bundler-install'
-    gem 'faraday-multipart'
-    gem 'faraday-retry'
+group :jekyll_plugins do    
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -24,4 +21,6 @@ end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
+    gem 'faraday-multipart'
+    gem 'faraday-retry'
 end
