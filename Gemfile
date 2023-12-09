@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem install bundler
+    gem  'bundler'
+    gem  'faraday-retry'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
