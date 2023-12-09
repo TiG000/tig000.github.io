@@ -3538,10 +3538,84 @@
   
   
     {
+      "title"    : "2023-12-01热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-01/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-02热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-02/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-03热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-03/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-04热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-04/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-05热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-05/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-06热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-06/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-07热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-07/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-08热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-08/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
+      "title"    : "2023-12-09热门搜索",
+      "url"      : "https://TiG000.github.io/archives/2023-12-09/",
+      "keywords" : ""
+    } ,
+  
+  
+  
+    {
       "title"    : "weibo-trending-hot-search",
       "url"      : "https://TiG000.github.io/wb/",
       "keywords" : ""
     } ,
+  
+  
   
   
   
@@ -6959,6 +7033,78 @@
       "category" : "daily",
       
       "url"      : "https://TiG000.github.io/2023/11/30/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/01/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/02/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/03/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/04/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/05/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/06/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/07/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/08/wb/",
+      "keywords" : "wb, 热搜"
+    } ,
+  
+    {
+      "title"    : "wb热搜",
+      "category" : "daily",
+      
+      "url"      : "https://TiG000.github.io/2023/12/09/wb/",
       "keywords" : "wb, 热搜"
     } ,
   
