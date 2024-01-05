@@ -7,7 +7,7 @@ import requests
 from lxml import etree
 from requests.exceptions import RequestException
 
-utctime = datetime.utcnow()
+utctime = datetime.now()
 bjtime = utctime + timedelta(hours=8)
 baseurl = 'https://s.weibo.com'
 today_str = bjtime.strftime("%Y-%m-%d")
