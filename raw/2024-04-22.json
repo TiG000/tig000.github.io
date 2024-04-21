@@ -575,6 +575,10 @@
     "url": "https://s.weibo.com/weibo?q=%23aespa%E6%AD%A3%E8%A7%84%E4%B8%80%E8%BE%91%E9%A2%84%E5%91%8A%23&t=31&band_rank=31&Refer=top",
     "hot": 50276
   },
+  "皇马vs巴萨": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%ACvs%E5%B7%B4%E8%90%A8%23&t=31&band_rank=7&Refer=top",
+    "hot": 50054
+  },
   "范丞丞你真的很懂": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%87%82%23&t=31&band_rank=32&Refer=top",
     "hot": 48500
@@ -595,6 +599,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%BF%97%E6%98%8E%E9%BA%A6%E6%89%BF%E6%AC%A2%E5%AE%98%E5%AE%A3%23&t=31&band_rank=39&Refer=top",
     "hot": 40488
   },
+  "中国土味短剧在日本火了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%9F%E5%91%B3%E7%9F%AD%E5%89%A7%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+    "hot": 39505
+  },
   "陈楚生独唱将进酒": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%8B%AC%E5%94%B1%E5%B0%86%E8%BF%9B%E9%85%92%23&t=31&band_rank=44&Refer=top",
     "hot": 37218
@@ -614,5 +622,21 @@
   "马龙夺冠": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=50&Refer=top",
     "hot": 36295
+  },
+  "为什么闭上眼睛能看到诡异的波纹": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%97%AD%E4%B8%8A%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%88%B0%E8%AF%A1%E5%BC%82%E7%9A%84%E6%B3%A2%E7%BA%B9%23&t=31&band_rank=14&Refer=top",
+    "hot": 35386
+  },
+  "哈哈哈哈哈": {
+    "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88&t=31&band_rank=26&Refer=top",
+    "hot": 20761
+  },
+  "曼联": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%94&t=31&band_rank=38&Refer=top",
+    "hot": 17656
+  },
+  "能促进代谢的8种食物": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%BF%83%E8%BF%9B%E4%BB%A3%E8%B0%A2%E7%9A%848%E7%A7%8D%E9%A3%9F%E7%89%A9%23&t=31&band_rank=44&Refer=top",
+    "hot": 16529
   }
 }
