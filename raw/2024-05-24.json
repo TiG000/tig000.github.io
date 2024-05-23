@@ -55,6 +55,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&t=31&band_rank=4&Refer=top",
     "hot": 557105
   },
+  "中国台湾937舰这里是中国管辖海域": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE937%E8%88%B0%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%AE%A1%E8%BE%96%E6%B5%B7%E5%9F%9F%23&t=31&band_rank=1&Refer=top",
+    "hot": 535251
+  },
   "四川地震": {
     "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87&t=31&band_rank=31&Refer=top",
     "hot": 529097
@@ -206,6 +210,10 @@
   "网红为致富而炫富违法吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B8%BA%E8%87%B4%E5%AF%8C%E8%80%8C%E7%82%AB%E5%AF%8C%E8%BF%9D%E6%B3%95%E5%90%97%23&t=31&band_rank=23&Refer=top",
     "hot": 237490
+  },
+  "文化企业30强": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%BC%81%E4%B8%9A30%E5%BC%BA%23&t=31&band_rank=3&Refer=top",
+    "hot": 232982
   },
   "台媒关注侯佩岑欧阳娜娜等艺人博文": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E5%85%B3%E6%B3%A8%E4%BE%AF%E4%BD%A9%E5%B2%91%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%AD%89%E8%89%BA%E4%BA%BA%E5%8D%9A%E6%96%87%23&t=31&band_rank=22&Refer=top",
@@ -482,5 +490,49 @@
   "向鹏2比3李尚洙": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F2%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=50&Refer=top",
     "hot": 103640
+  },
+  "爸爸说握手刚出生的宝宝真握住了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%AF%B4%E6%8F%A1%E6%89%8B%E5%88%9A%E5%87%BA%E7%94%9F%E7%9A%84%E5%AE%9D%E5%AE%9D%E7%9C%9F%E6%8F%A1%E4%BD%8F%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+    "hot": 77868
+  },
+  "不消费不让坐涉事星巴克门店店员回应": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%B6%88%E8%B4%B9%E4%B8%8D%E8%AE%A9%E5%9D%90%E6%B6%89%E4%BA%8B%E6%98%9F%E5%B7%B4%E5%85%8B%E9%97%A8%E5%BA%97%E5%BA%97%E5%91%98%E5%9B%9E%E5%BA%94%23&t=31&band_rank=15&Refer=top",
+    "hot": 75898
+  },
+  "郭晓婷胡连馨回复龚俊": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%93%E5%A9%B7%E8%83%A1%E8%BF%9E%E9%A6%A8%E5%9B%9E%E5%A4%8D%E9%BE%9A%E4%BF%8A%23&t=31&band_rank=25&Refer=top",
+    "hot": 49250
+  },
+  "暧昧期同居的要听劝": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9A%A7%E6%98%A7%E6%9C%9F%E5%90%8C%E5%B1%85%E7%9A%84%E8%A6%81%E5%90%AC%E5%8A%9D%23&t=31&band_rank=26&Refer=top",
+    "hot": 49225
+  },
+  "小龙虾价格暴跌年轻人不爱吃了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%90%83%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+    "hot": 49072
+  },
+  "周杰伦来了又好像没有来": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%A5%E4%BA%86%E5%8F%88%E5%A5%BD%E5%83%8F%E6%B2%A1%E6%9C%89%E6%9D%A5%23&t=31&band_rank=35&Refer=top",
+    "hot": 44368
+  },
+  "凯迪拉克只卖13万多了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%E5%8F%AA%E5%8D%9613%E4%B8%87%E5%A4%9A%E4%BA%86%23&t=31&band_rank=36&Refer=top",
+    "hot": 44214
+  },
+  "红手指淘汰": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%89%8B%E6%8C%87%E6%B7%98%E6%B1%B0&t=31&band_rank=41&Refer=top",
+    "hot": 37664
+  },
+  "种地吧 一款适合打工人的综艺": {
+    "url": "https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E4%B8%80%E6%AC%BE%E9%80%82%E5%90%88%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E7%BB%BC%E8%89%BA&t=31&band_rank=44&Refer=top",
+    "hot": 32724
+  },
+  "宁那贝儿": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E9%82%A3%E8%B4%9D%E5%84%BF&t=31&band_rank=46&Refer=top",
+    "hot": 30623
+  },
+  "整个山东像是青岛的空调外机": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%B4%E4%B8%AA%E5%B1%B1%E4%B8%9C%E5%83%8F%E6%98%AF%E9%9D%92%E5%B2%9B%E7%9A%84%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%23&t=31&band_rank=50&Refer=top",
+    "hot": 28732
   }
 }
