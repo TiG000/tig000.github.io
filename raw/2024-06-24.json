@@ -501,11 +501,19 @@
   },
   "瑞士vs德国": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
-    "hot": 67802
+    "hot": 78368
   },
   "庆余年 晕墨": {
     "url": "https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%20%E6%99%95%E5%A2%A8&t=31&band_rank=18&Refer=top",
     "hot": 56709
+  },
+  "于正说以后他所有的剧全部明确HE": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BB%96%E6%89%80%E6%9C%89%E7%9A%84%E5%89%A7%E5%85%A8%E9%83%A8%E6%98%8E%E7%A1%AEHE%23&t=31&band_rank=6&Refer=top",
+    "hot": 54891
+  },
+  "苏格兰vs匈牙利": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%A0%BC%E5%85%B0vs%E5%8C%88%E7%89%99%E5%88%A9%23&t=31&band_rank=7&Refer=top",
+    "hot": 50016
   },
   "汪苏泷终于唱巴赫旧约了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BB%88%E4%BA%8E%E5%94%B1%E5%B7%B4%E8%B5%AB%E6%97%A7%E7%BA%A6%E4%BA%86%23&t=31&band_rank=21&Refer=top",
@@ -527,6 +535,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BB%BC%E8%89%BA%E7%88%86%E6%9B%B2%E5%85%AB%E8%BF%9E%E5%94%B1%23&t=31&band_rank=38&Refer=top",
     "hot": 37931
   },
+  "陈都灵买过刘诗诗步步惊心周边": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E4%B9%B0%E8%BF%87%E5%88%98%E8%AF%97%E8%AF%97%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83%E5%91%A8%E8%BE%B9%23&t=31&band_rank=11&Refer=top",
+    "hot": 37486
+  },
   "意大利女排3比1日本女排": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E6%8E%923%E6%AF%941%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%23&t=31&band_rank=48&Refer=top",
     "hot": 33607
@@ -534,5 +546,33 @@
   "周笔畅唱跳电影组曲": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E5%94%B1%E8%B7%B3%E7%94%B5%E5%BD%B1%E7%BB%84%E6%9B%B2%23&t=31&band_rank=49&Refer=top",
     "hot": 33595
+  },
+  "男生查分被屏蔽淡定向家人报喜": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9F%A5%E5%88%86%E8%A2%AB%E5%B1%8F%E8%94%BD%E6%B7%A1%E5%AE%9A%E5%90%91%E5%AE%B6%E4%BA%BA%E6%8A%A5%E5%96%9C%23&t=31&band_rank=21&Refer=top",
+    "hot": 21235
+  },
+  "夫妻自驾运毒34.8公斤被抓": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%87%AA%E9%A9%BE%E8%BF%90%E6%AF%9234.8%E5%85%AC%E6%96%A4%E8%A2%AB%E6%8A%93%23&t=31&band_rank=23&Refer=top",
+    "hot": 21208
+  },
+  "菲律宾蓄意闹海": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%93%84%E6%84%8F%E9%97%B9%E6%B5%B7%23&t=31&band_rank=34&Refer=top",
+    "hot": 19219
+  },
+  "我发现射手座很难被PUA": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E5%B0%84%E6%89%8B%E5%BA%A7%E5%BE%88%E9%9A%BE%E8%A2%ABPUA%23&t=31&band_rank=43&Refer=top",
+    "hot": 16076
+  },
+  "不翻车的小短甲": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%BF%BB%E8%BD%A6%E7%9A%84%E5%B0%8F%E7%9F%AD%E7%94%B2&t=31&band_rank=48&Refer=top",
+    "hot": 16073
+  },
+  "小锅米线": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%94%85%E7%B1%B3%E7%BA%BF&t=31&band_rank=49&Refer=top",
+    "hot": 16072
+  },
+  "汪苏泷武汉站": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%AD%A6%E6%B1%89%E7%AB%99&t=31&band_rank=50&Refer=top",
+    "hot": 16071
   }
 }
