@@ -311,6 +311,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E5%AD%99%E7%A6%BBFMVP%E7%9A%AE%E8%82%A4&t=31&band_rank=21&Refer=top",
     "hot": 195719
   },
+  "愚人节文案": {
+    "url": "https://s.weibo.com/weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82%E6%96%87%E6%A1%88&t=31&band_rank=38&Refer=top",
+    "hot": 193989
+  },
   "甲亢哥被喷火表演吓到尖叫": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%A2%AB%E5%96%B7%E7%81%AB%E8%A1%A8%E6%BC%94%E5%90%93%E5%88%B0%E5%B0%96%E5%8F%AB%23&t=31&band_rank=22&Refer=top",
     "hot": 192796
@@ -362,10 +366,6 @@
   "美股": {
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=37&Refer=top",
     "hot": 157314
-  },
-  "愚人节文案": {
-    "url": "https://s.weibo.com/weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82%E6%96%87%E6%A1%88&t=31&band_rank=38&Refer=top",
-    "hot": 155954
   },
   "男子赠妻子闺蜜7万被判全额返还加利息": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B5%A0%E5%A6%BB%E5%AD%90%E9%97%BA%E8%9C%9C7%E4%B8%87%E8%A2%AB%E5%88%A4%E5%85%A8%E9%A2%9D%E8%BF%94%E8%BF%98%E5%8A%A0%E5%88%A9%E6%81%AF%23&t=31&band_rank=39&Refer=top",
@@ -498,5 +498,85 @@
   "张若昀唐艺昕在朋友聚会认识": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E8%89%BA%E6%98%95%E5%9C%A8%E6%9C%8B%E5%8F%8B%E8%81%9A%E4%BC%9A%E8%AE%A4%E8%AF%86%23&t=31&band_rank=50&Refer=top",
     "hot": 93067
+  },
+  "陈昊宇陈丽君四公帮唱": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E9%99%88%E4%B8%BD%E5%90%9B%E5%9B%9B%E5%85%AC%E5%B8%AE%E5%94%B1%23&t=31&band_rank=2&Refer=top",
+    "hot": 75974
+  },
+  "4月一起加油": {
+    "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E4%B8%80%E8%B5%B7%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=6&Refer=top",
+    "hot": 62508
+  },
+  "愚人节站姐团建": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E7%AB%99%E5%A7%90%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=11&Refer=top",
+    "hot": 58140
+  },
+  "2024的愚人节勇士站姐": {
+    "url": "https://s.weibo.com/weibo?q=2024%E7%9A%84%E6%84%9A%E4%BA%BA%E8%8A%82%E5%8B%87%E5%A3%AB%E7%AB%99%E5%A7%90&t=31&band_rank=14&Refer=top",
+    "hot": 57165
+  },
+  "金秀贤记者会最起鸡皮疙瘩的一句话": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E8%AE%B0%E8%80%85%E4%BC%9A%E6%9C%80%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%23&t=31&band_rank=17&Refer=top",
+    "hot": 55921
+  },
+  "日本对中国人民负有严重历史罪责": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B4%9F%E6%9C%89%E4%B8%A5%E9%87%8D%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%23&t=31&band_rank=21&Refer=top",
+    "hot": 55087
+  },
+  "檀健次当评委了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%BD%93%E8%AF%84%E5%A7%94%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+    "hot": 55076
+  },
+  "来自假惺惺的你": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E5%81%87%E6%83%BA%E6%83%BA%E7%9A%84%E4%BD%A0%23&t=31&band_rank=28&Refer=top",
+    "hot": 55052
+  },
+  "中国咖啡98%来自云南": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%92%96%E5%95%A198%25%E6%9D%A5%E8%87%AA%E4%BA%91%E5%8D%97%23&t=31&band_rank=29&Refer=top",
+    "hot": 55048
+  },
+  "钟南山提醒剩饭剩菜别强吃": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E6%8F%90%E9%86%92%E5%89%A9%E9%A5%AD%E5%89%A9%E8%8F%9C%E5%88%AB%E5%BC%BA%E5%90%83%23&t=31&band_rank=31&Refer=top",
+    "hot": 55039
+  },
+  "男子发现打工养了7年的女儿非亲生": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E6%89%93%E5%B7%A5%E5%85%BB%E4%BA%867%E5%B9%B4%E7%9A%84%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%23&t=31&band_rank=34&Refer=top",
+    "hot": 55021
+  },
+  "为什么每年都会怀念张国荣": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%8F%E5%B9%B4%E9%83%BD%E4%BC%9A%E6%80%80%E5%BF%B5%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=35&Refer=top",
+    "hot": 55016
+  },
+  "想和你去四月的春天里坐坐": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%92%8C%E4%BD%A0%E5%8E%BB%E5%9B%9B%E6%9C%88%E7%9A%84%E6%98%A5%E5%A4%A9%E9%87%8C%E5%9D%90%E5%9D%90%23&t=31&band_rank=39&Refer=top",
+    "hot": 54995
+  },
+  "难哄3月全网播放冠军": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%843%E6%9C%88%E5%85%A8%E7%BD%91%E6%92%AD%E6%94%BE%E5%86%A0%E5%86%9B%23&t=31&band_rank=43&Refer=top",
+    "hot": 54975
+  },
+  "挖野菜": {
+    "url": "https://s.weibo.com/weibo?q=%E6%8C%96%E9%87%8E%E8%8F%9C&t=31&band_rank=44&Refer=top",
+    "hot": 54968
+  },
+  "佳霏猫": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BD%B3%E9%9C%8F%E7%8C%AB&t=31&band_rank=45&Refer=top",
+    "hot": 54963
+  },
+  "黄子弘凡剧透了一首非常丰富的歌": {
+    "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E5%89%A7%E9%80%8F%E4%BA%86%E4%B8%80%E9%A6%96%E9%9D%9E%E5%B8%B8%E4%B8%B0%E5%AF%8C%E7%9A%84%E6%AD%8C&t=31&band_rank=47&Refer=top",
+    "hot": 54957
+  },
+  "春日壁纸": {
+    "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%97%A5%E5%A3%81%E7%BA%B8&t=31&band_rank=48&Refer=top",
+    "hot": 54948
+  },
+  "泰高空走廊被震断男子奋力跳向对面": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E9%AB%98%E7%A9%BA%E8%B5%B0%E5%BB%8A%E8%A2%AB%E9%9C%87%E6%96%AD%E7%94%B7%E5%AD%90%E5%A5%8B%E5%8A%9B%E8%B7%B3%E5%90%91%E5%AF%B9%E9%9D%A2%23&t=31&band_rank=49&Refer=top",
+    "hot": 54945
+  },
+  "马龙说全运会后还想参加比赛": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8E%E8%BF%98%E6%83%B3%E5%8F%82%E5%8A%A0%E6%AF%94%E8%B5%9B%23&t=31&band_rank=50&Refer=top",
+    "hot": 54940
   }
 }
