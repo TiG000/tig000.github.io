@@ -505,7 +505,7 @@
   },
   "父亲离世前对AI说我要去世了豆包": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%E5%89%8D%E5%AF%B9AI%E8%AF%B4%E6%88%91%E8%A6%81%E5%8E%BB%E4%B8%96%E4%BA%86%E8%B1%86%E5%8C%85%23&t=31&band_rank=11&Refer=top",
-    "hot": 62650
+    "hot": 72471
   },
   "张凌赫曾胖到200斤同学认不出": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9B%BE%E8%83%96%E5%88%B0200%E6%96%A4%E5%90%8C%E5%AD%A6%E8%AE%A4%E4%B8%8D%E5%87%BA%23&t=31&band_rank=12&Refer=top",
@@ -527,17 +527,25 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E6%8B%89%E8%BE%BE%E8%B6%85100%E4%BA%BF%E6%94%B6%E8%B4%AD%E8%8C%83%E6%80%9D%E5%93%B2%23&t=31&band_rank=22&Refer=top",
     "hot": 57393
   },
+  "多米尼加俱乐部坍塌已致218死": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%87%B4218%E6%AD%BB%23&t=31&band_rank=27&Refer=top",
+    "hot": 48382
+  },
   "你男朋友可能喜欢你": {
     "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%8F%AF%E8%83%BD%E5%96%9C%E6%AC%A2%E4%BD%A0&t=31&band_rank=26&Refer=top",
     "hot": 42906
   },
-  "多米尼加俱乐部坍塌已致218死": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%87%B4218%E6%AD%BB%23&t=31&band_rank=27&Refer=top",
-    "hot": 41041
+  "古天乐右眼视网膜穿了两个洞": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%8F%B3%E7%9C%BC%E8%A7%86%E7%BD%91%E8%86%9C%E7%A9%BF%E4%BA%86%E4%B8%A4%E4%B8%AA%E6%B4%9E%23&t=31&band_rank=13&Refer=top",
+    "hot": 41494
   },
   "伊能静回应浪姐第一季妈味很重": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%9B%9E%E5%BA%94%E6%B5%AA%E5%A7%90%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%A6%88%E5%91%B3%E5%BE%88%E9%87%8D%23&t=31&band_rank=28&Refer=top",
     "hot": 39598
+  },
+  "重大气象灾害三级应急响应": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%A4%A7%E6%B0%94%E8%B1%A1%E7%81%BE%E5%AE%B3%E4%B8%89%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&t=31&band_rank=18&Refer=top",
+    "hot": 31550
   },
   "京津冀大风橙色预警": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E5%A4%A7%E9%A3%8E%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=38&Refer=top",
@@ -570,5 +578,9 @@
   "苏新皓这个房间昨天我清理了好久": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%BF%99%E4%B8%AA%E6%88%BF%E9%97%B4%E6%98%A8%E5%A4%A9%E6%88%91%E6%B8%85%E7%90%86%E4%BA%86%E5%A5%BD%E4%B9%85%23&t=31&band_rank=50&Refer=top",
     "hot": 25607
+  },
+  "特斯拉市值一夜蒸发超6000亿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%856000%E4%BA%BF%23&t=31&band_rank=31&Refer=top",
+    "hot": 21392
   }
 }
