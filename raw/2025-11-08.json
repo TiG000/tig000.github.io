@@ -59,6 +59,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E9%BB%84%E5%AE%97%E6%B3%BD%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86&t=31&band_rank=7&Refer=top",
     "hot": 294096
   },
+  "格莱美": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E&t=31&band_rank=1&Refer=top",
+    "hot": 289349
+  },
   "中方回应日本水产品输华": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E8%BE%93%E5%8D%8E%23&t=31&band_rank=8&Refer=top",
     "hot": 285490
@@ -66,6 +70,10 @@
   "iPhone18Pro系列前瞻": {
     "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E5%89%8D%E7%9E%BB%23&t=31&band_rank=9&Refer=top",
     "hot": 282073
+  },
+  "专家称DNA证实康熙为努尔哈赤支系": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23&t=31&band_rank=2&Refer=top",
+    "hot": 265874
   },
   "爱新觉罗家族后代都有染色体标记": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%96%B0%E8%A7%89%E7%BD%97%E5%AE%B6%E6%97%8F%E5%90%8E%E4%BB%A3%E9%83%BD%E6%9C%89%E6%9F%93%E8%89%B2%E4%BD%93%E6%A0%87%E8%AE%B0%23&t=31&band_rank=7&Refer=top",
@@ -514,5 +522,73 @@
   "日掛中天": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%8E%9B%E4%B8%AD%E5%A4%A9&t=31&band_rank=50&Refer=top",
     "hot": 87648
+  },
+  "谭凯回复": {
+    "url": "https://s.weibo.com/weibo?q=%E8%B0%AD%E5%87%AF%E5%9B%9E%E5%A4%8D&t=31&band_rank=14&Refer=top",
+    "hot": 61702
+  },
+  "四喜37分钟收视率破3": {
+    "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%96%9C37%E5%88%86%E9%92%9F%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B43&t=31&band_rank=15&Refer=top",
+    "hot": 61326
+  },
+  "易烊千玺完全是电影疯子": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%AE%8C%E5%85%A8%E6%98%AF%E7%94%B5%E5%BD%B1%E7%96%AF%E5%AD%90%23&t=31&band_rank=18&Refer=top",
+    "hot": 61204
+  },
+  "张杰演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=19&Refer=top",
+    "hot": 61103
+  },
+  "王俊凯卡点为王源庆生": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8D%A1%E7%82%B9%E4%B8%BA%E7%8E%8B%E6%BA%90%E5%BA%86%E7%94%9F%23&t=31&band_rank=21&Refer=top",
+    "hot": 60981
+  },
+  "易烊千玺": {
+    "url": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&t=31&band_rank=23&Refer=top",
+    "hot": 60900
+  },
+  "25岁的王源": {
+    "url": "https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%9A%84%E7%8E%8B%E6%BA%90%23&t=31&band_rank=26&Refer=top",
+    "hot": 60733
+  },
+  "中国扇耳光大赛选手仍在治疗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E9%80%89%E6%89%8B%E4%BB%8D%E5%9C%A8%E6%B2%BB%E7%96%97%23&t=31&band_rank=30&Refer=top",
+    "hot": 57399
+  },
+  "日本7名男教师被捕": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7%E5%90%8D%E7%94%B7%E6%95%99%E5%B8%88%E8%A2%AB%E6%8D%95%23&t=31&band_rank=34&Refer=top",
+    "hot": 57328
+  },
+  "必胜客要被卖了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23&t=31&band_rank=40&Refer=top",
+    "hot": 57188
+  },
+  "沈明辉好萌": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%98%8E%E8%BE%89%E5%A5%BD%E8%90%8C&t=31&band_rank=41&Refer=top",
+    "hot": 57166
+  },
+  "沈佳润回应是否割双眼皮": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%89%B2%E5%8F%8C%E7%9C%BC%E7%9A%AE%23&t=31&band_rank=45&Refer=top",
+    "hot": 57100
+  },
+  "她用一块五花肉做了满汉全席": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A5%B9%E7%94%A8%E4%B8%80%E5%9D%97%E4%BA%94%E8%8A%B1%E8%82%89%E5%81%9A%E4%BA%86%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD&t=31&band_rank=46&Refer=top",
+    "hot": 57069
+  },
+  "周深新歌是睡前摇篮曲吧": {
+    "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E6%98%AF%E7%9D%A1%E5%89%8D%E6%91%87%E7%AF%AE%E6%9B%B2%E5%90%A7&t=31&band_rank=47&Refer=top",
+    "hot": 57057
+  },
+  "李娜李小鹏世纪同框": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A8%9C%E6%9D%8E%E5%B0%8F%E9%B9%8F%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23&t=31&band_rank=48&Refer=top",
+    "hot": 57034
+  },
+  "挑战16个烫嘴生僻字": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%88%9816%E4%B8%AA%E7%83%AB%E5%98%B4%E7%94%9F%E5%83%BB%E5%AD%97%23&t=31&band_rank=49&Refer=top",
+    "hot": 56999
+  },
+  "张本智和止步十六强": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%AD%A2%E6%AD%A5%E5%8D%81%E5%85%AD%E5%BC%BA%23&t=31&band_rank=50&Refer=top",
+    "hot": 56982
   }
 }
