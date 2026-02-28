@@ -543,6 +543,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E6%8B%9C%E7%A0%81%E5%A4%B4%E9%99%84%E8%BF%91%E5%9C%B0%E5%8C%BA%E7%87%83%E8%B5%B7%E9%BB%91%E7%83%9F%23&t=31&band_rank=50&Refer=top",
     "hot": 91146
   },
+  "玫瑰丛生": {
+    "url": "https://s.weibo.com/weibo?q=%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F&t=31&band_rank=2&Refer=top",
+    "hot": 91001
+  },
   "油价或出现历史性飙升": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%88%96%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E9%A3%99%E5%8D%87%23&t=31&band_rank=18&Refer=top",
     "hot": 85281
@@ -602,5 +606,21 @@
   "麻辣拌界史铁生称两眼一睁就是拌": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E6%8B%8C%E7%95%8C%E5%8F%B2%E9%93%81%E7%94%9F%E7%A7%B0%E4%B8%A4%E7%9C%BC%E4%B8%80%E7%9D%81%E5%B0%B1%E6%98%AF%E6%8B%8C%23&t=31&band_rank=50&Refer=top",
     "hot": 57700
+  },
+  "迪拜再次传出爆炸声": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E6%8B%9C%E5%86%8D%E6%AC%A1%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0%23&t=31&band_rank=32&Refer=top",
+    "hot": 26274
+  },
+  "江湖夜雨十年灯": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E6%B9%96%E5%A4%9C%E9%9B%A8%E5%8D%81%E5%B9%B4%E7%81%AF&t=31&band_rank=36&Refer=top",
+    "hot": 25748
+  },
+  "美以袭击伊朗学校现场一片废墟": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%AD%A6%E6%A0%A1%E7%8E%B0%E5%9C%BA%E4%B8%80%E7%89%87%E5%BA%9F%E5%A2%9F%23&t=31&band_rank=43&Refer=top",
+    "hot": 21583
+  },
+  "你好星期六": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=44&Refer=top",
+    "hot": 21553
   }
 }
