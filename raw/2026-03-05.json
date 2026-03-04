@@ -542,5 +542,13 @@
   "米兰时装周": {
     "url": "https://s.weibo.com/weibo?q=%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=50&Refer=top",
     "hot": 37474
+  },
+  "KPL春季赛": {
+    "url": "https://s.weibo.com/weibo?q=KPL%E6%98%A5%E5%AD%A3%E8%B5%9B&t=31&band_rank=38&Refer=top",
+    "hot": 23403
+  },
+  "晓兮小贝坦白局": {
+    "url": "https://s.weibo.com/weibo?q=%E6%99%93%E5%85%AE%E5%B0%8F%E8%B4%9D%E5%9D%A6%E7%99%BD%E5%B1%80&t=31&band_rank=39&Refer=top",
+    "hot": 23403
   }
 }
