@@ -506,5 +506,21 @@
   "PEL春季赛": {
     "url": "https://s.weibo.com/weibo?q=PEL%E6%98%A5%E5%AD%A3%E8%B5%9B&t=31&band_rank=49&Refer=top",
     "hot": 31736
+  },
+  "汪苏泷演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=15&Refer=top",
+    "hot": 17502
+  },
+  "谢征高精力的一天": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%BE%81%E9%AB%98%E7%B2%BE%E5%8A%9B%E7%9A%84%E4%B8%80%E5%A4%A9%23&t=31&band_rank=44&Refer=top",
+    "hot": 15207
+  },
+  "英雄联盟全球先锋赛": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B&t=31&band_rank=47&Refer=top",
+    "hot": 15206
+  },
+  "白鹿综艺战损": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%BB%BC%E8%89%BA%E6%88%98%E6%8D%9F%23&t=31&band_rank=50&Refer=top",
+    "hot": 15205
   }
 }
