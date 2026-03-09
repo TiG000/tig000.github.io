@@ -487,13 +487,13 @@
     "url": "https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA&t=31&band_rank=10&Refer=top",
     "hot": 78502
   },
+  "巴黎时装周": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=20&Refer=top",
+    "hot": 72452
+  },
   "肖战和白鹿挑眉": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%92%8C%E7%99%BD%E9%B9%BF%E6%8C%91%E7%9C%89%23&t=31&band_rank=16&Refer=top",
     "hot": 64081
-  },
-  "巴黎时装周": {
-    "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=20&Refer=top",
-    "hot": 63839
   },
   "伊朗强调侵略持续就不谈停火": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E8%B0%83%E4%BE%B5%E7%95%A5%E6%8C%81%E7%BB%AD%E5%B0%B1%E4%B8%8D%E8%B0%88%E5%81%9C%E7%81%AB%23&t=31&band_rank=28&Refer=top",
@@ -510,5 +510,25 @@
   "章若楠说王安宇长得好戏也好": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%AF%B4%E7%8E%8B%E5%AE%89%E5%AE%87%E9%95%BF%E5%BE%97%E5%A5%BD%E6%88%8F%E4%B9%9F%E5%A5%BD%23&t=31&band_rank=39&Refer=top",
     "hot": 62541
+  },
+  "周深回应OST劳模": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94OST%E5%8A%B3%E6%A8%A1%23&t=31&band_rank=9&Refer=top",
+    "hot": 55814
+  },
+  "宇宙闪烁请注意": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81%E8%AF%B7%E6%B3%A8%E6%84%8F&t=31&band_rank=30&Refer=top",
+    "hot": 45532
+  },
+  "周深演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=39&Refer=top",
+    "hot": 45526
+  },
+  "刘宇时装周直播": {
+    "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E6%97%B6%E8%A3%85%E5%91%A8%E7%9B%B4%E6%92%AD&t=31&band_rank=45&Refer=top",
+    "hot": 45522
+  },
+  "女足亚洲杯": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E8%B6%B3%E4%BA%9A%E6%B4%B2%E6%9D%AF&t=31&band_rank=50&Refer=top",
+    "hot": 45518
   }
 }
